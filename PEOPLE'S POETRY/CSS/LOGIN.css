@@ -1,0 +1,13 @@
+ form{
+            width: 40%;
+            text-align: center;
+        }
+body{
+            margin: 0;
+            padding-top: 50px;
+            background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), 
+              url('../IMAGES/logo.png');
+  background-repeat: no-repeat;
+  background-position: center;
+    
+        }
